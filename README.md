@@ -2,5 +2,4 @@
 
 ## Team Members:
 * Dmytro Fedorenko
-* Juli Muhadze
 * Glib Manaiev
