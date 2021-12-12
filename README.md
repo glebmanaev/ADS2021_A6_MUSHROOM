@@ -16,7 +16,7 @@ To convert kaggle dataset to COCO format datset run:
     cd data/
     python coco_converter.py --eval_pct 10
     
-You can change th percentage of data used for evaluation by `--eval_pct`.
+You can change the percentage of the data used for evaluation set by `--eval_pct`.
 ## Inference
 To test model run:
 
