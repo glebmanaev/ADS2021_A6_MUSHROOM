@@ -19,11 +19,16 @@ To convert kaggle dataset to COCO format datset run:
 You can change th percentage of data used for evaluation by `--eval_pct`.
 ## Inference
 To test model run:
-`python inf_val.py --image_path images_for_inference/test_Hygrocybe_3500`
+
+    python inf_val.py --image_path images_for_inference/test_Hygrocybe_3500
+
 You can change path to the model using `--model /path/to/model`
 ## Evaluation
 To evaluate model run:
-`python inf_val.py --eval True`
+
+    python inf_val.py --eval True
+    
 ## Training
 To train model run:
-`python train.py `
+
+    python train.py
