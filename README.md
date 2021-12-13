@@ -32,3 +32,7 @@ To evaluate model run:
 To train model run:
 
     python train.py
+    
+To train model with training data augmentation run:
+
+    python train_data_aug.py
