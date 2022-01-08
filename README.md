@@ -1,5 +1,5 @@
 # Mushroom Project (ADS2021 A6) 
-
+![Poster](https://github.com/glebmanaev/ADS2021_A6_MUSHROOM/blob/main/Data%20science%20poster.png)
 ## Team Members:
 * Dmytro Fedorenko
 * Glib Manaiev
